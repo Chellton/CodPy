@@ -1,5 +1,6 @@
 # Cod de Chellton Almeida.
 # Simulação Caixa Eletrônico, sistema de troco de notas básico. 
+
 valor = int(input('Valor Recebido R$: '))
 
 while True:
